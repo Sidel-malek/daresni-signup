@@ -36,7 +36,7 @@ Cette section du projet Daresni concerne le processus d'inscription, permettant 
    ```
 
 5. Accédez à l'application :
-   Ouvrez votre navigateur à l'adresse http://localhost:3000/signup.
+   Ouvrez votre navigateur à l'adresse http://localhost:3000/signup/enseignant ou http://localhost:3000/signup/enseignant/etudiant/1 .
 
 ## Contribuer
 
